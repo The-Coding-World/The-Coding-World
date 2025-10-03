@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mukund Sontakke
+-  www.dmho.life
 - 👀 I’m interested in coding and robotics
 - 🌱 I’m currently learning in High School
 - 💞️ I’m looking to collaborate on new projects
